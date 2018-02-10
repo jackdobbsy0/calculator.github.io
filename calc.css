@@ -1,0 +1,29 @@
+h1 {
+	background-color: white;
+	margin: 0 auto;
+	margin-top: 40px;
+	margin-bottom: 50px;
+	width: 50%;
+	border: solid red 3px;
+}
+
+h5 {
+	background-color: white;
+	margin: 0 auto;
+	margin-top: 200px;
+	margin-bottom: 50px;
+	width: 50%;
+	border: solid red 3px;
+}
+
+body {
+	background-image: url(https://media.istockphoto.com/vectors/math-linear-mathematics-education-circle-background-with-geometrical-vector-id611195956);
+	text-align: center;
+}
+
+#calc {
+	background-color: white;
+	margin: 0 auto;
+	width: 50%;
+	border: solid red 2px;
+}
